@@ -19,9 +19,9 @@ Thank you for your attention.							|
  * System       : Generic System
  * Version      : 04.00
  * Version Date : 13-12-22
- * Designer     : Wang Cheng & Hu Xiaokang
- * Programmer   : Wang Cheng & Hu Xiaokang
- * Copyright    : Wang Cheng & Hu Xiaokang 1993-2013 All Rights Reserved
+ * Designer     : Wang Cheng
+ * Programmer   : Wang Cheng
+ * Copyright    : Wang Cheng 1993-2013 All Rights Reserved
  * Descriptions : C source file.
  * Remarks      : Portable version which supports VS2013 PREVIEW & VS2012 & VS2010 and Linux platform
  *                For Linux need to add '-lrt -pthread' to linker to link with the multi-thread & time lib
